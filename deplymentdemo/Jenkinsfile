@@ -1,6 +1,6 @@
 node{
 stage('SCM Checkout'){
-git 'https://https://github.com/karthiktr147/deploymentwar.git'
+git 'https://github.com/karthiktr147/deploymentwar.git'
 }
 stage('Compile Package')
 {
